@@ -122,7 +122,7 @@ module.exports = {
       /* service icon */
       icon: 'assets/weather-64.png',
       /* Internationalization: see Ignitial.io Web App */
-      i18n: {
+      i18n: {
         'Weather forecast': [ 'Prévisions météo' ],
         'Darksky based forecast':  [
           'Prévisions basées sur Darksky'
